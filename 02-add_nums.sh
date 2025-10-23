@@ -24,5 +24,8 @@ read height
 total=$(( width*height ))
 
 # print statement
+
 echo " Width and Height multiplied together results in a total pixel amount of $total"
+echo "This message is from the main branch"
+
 
